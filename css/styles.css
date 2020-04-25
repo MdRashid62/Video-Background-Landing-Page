@@ -109,5 +109,6 @@ h1 {
 }
 
 .social a:hover {
-	color: blue;
+    color: blue;
+    transition: ease-in 0.3s;
 }
