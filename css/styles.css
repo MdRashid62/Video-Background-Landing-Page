@@ -107,3 +107,7 @@ h1 {
 .social a {
 	margin: 0 5px;
 }
+
+.social a:hover {
+	color: blue;
+}
